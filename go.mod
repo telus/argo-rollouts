@@ -19,7 +19,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.8.0
 	github.com/prometheus/common v0.18.0
-	github.com/servicemeshinterface/smi-sdk-go v0.4.1
+	github.com/servicemeshinterface/smi-sdk-go v0.5.0
 	github.com/sirupsen/logrus v1.7.0
 	github.com/spaceapegames/go-wavefront v1.8.1
 	github.com/spf13/cobra v1.1.1
